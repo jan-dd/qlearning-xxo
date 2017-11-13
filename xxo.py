@@ -116,7 +116,7 @@ class xxoboard(Game):
 def int_opponent(b):
     player=-1
     while True:
-        move=int(raw_input("Type number (1-9) for a move:"))-1
+        move=int(raw_input("Type number (1-9) for a move: "))-1
         if b.state[move]!=0:
             print("Bad move, repeat.")
         else:
