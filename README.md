@@ -1,6 +1,6 @@
 # xxo
 
-A neural network trained to play xxo by playing against scripted agents, using keras and qlearning4k.
+A neural network trained to play xxo by playing against scripted agents, using reinforcement learning with keras and qlearning4k.
 
 Just run
 
